@@ -1,0 +1,2 @@
+<h2>AJAX Loaded Heading</h2>
+<p>This content was loaded via AJAX from a text file. This demonstrates a simple use of jQuery's AJAX capabilities.</p>

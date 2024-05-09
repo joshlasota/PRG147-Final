@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#tv-shows div {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#animated-div {
+    width: 300px;
+    position: absolute;
+    left: -400px; /* Start off-screen */
+    top: 100px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#ajax-content button {
+    margin: 20px 0;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#ajax-content div {
+    border: 1px solid #ccc;
+    padding: 10px;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Stranger Things",
+        "mainCharacter": "Eleven",
+        "network": "Netflix",
+        "startDate": "July 15, 2016"
+    },
+    {
+        "name": "Game of Thrones",
+        "mainCharacter": "Jon Snow",
+        "network": "HBO",
+        "startDate": "April 17, 2011"
+    },
+    {
+        "name": "Breaking Bad",
+        "mainCharacter": "Walter White",
+        "network": "AMC",
+        "startDate": "January 20, 2008"
+    },
+    {
+        "name": "The Mandalorian",
+        "mainCharacter": "Din Djarin",
+        "network": "Disney+",
+        "startDate": "November 12, 2019"
+    },
+    {
+        "name": "The Crown",
+        "mainCharacter": "Queen Elizabeth II",
+        "network": "Netflix",
+        "startDate": "November 4, 2016"
+    }
+]
